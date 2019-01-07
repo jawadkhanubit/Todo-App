@@ -1,0 +1,33 @@
+.App .header input{
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid#fff;
+    width: 165px;
+    margin-left: 20px;
+}
+
+.App .header button{
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color:#ff6666;
+    color: #fff;
+    border: 2px solid #ff6666;
+    
+}
+.App .header button:hover{
+    background-color: #ff3333;
+    border:2px solid #ff3333;
+    cursor: pointer;
+    
+}
+.App .list li{
+    color: #333;
+    background-color: rgba(255, 255,255 ,.5);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+    
+}
